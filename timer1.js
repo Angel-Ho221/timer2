@@ -10,5 +10,4 @@ const timer = (time) => {
     }
   }
 };
-
 timer(time);
